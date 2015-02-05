@@ -1,0 +1,35 @@
+[33mcommit 8e43a8b483ba237dae2c30fb8bc9e1fbe06f2e20[m
+Merge: 4d53c92 ee5c4c4
+Author: Liu Yang <sdnjly@126.com>
+Date:   Wed Feb 4 13:08:33 2015 +0800
+
+    Merge pull request #1 from sdnjly/branch2
+    
+    changed the activity_action_bar.xml
+
+[33mcommit ee5c4c4333875ffe8af4be00c02f8c9eb389b1d3[m
+Author: Liu Yang <sdnjly@126.com>
+Date:   Wed Feb 4 13:06:33 2015 +0800
+
+    changed the activity_action_bar.xml
+    -- and a new button
+    -- change the layout to LinearLayout
+
+[33mcommit 4d53c929473ddbdbdaf6ef16394b664fe048f89e[m
+Merge: eb56ff0 1893799
+Author: sdnjly <sdnjly@126.com>
+Date:   Tue Feb 3 17:01:50 2015 +0800
+
+    Merge branch 'master' of https://github.com/sdnjly/ActionBar
+
+[33mcommit eb56ff051bbe558a0a62e260394de65df109b41a[m
+Author: sdnjly <sdnjly@126.com>
+Date:   Tue Feb 3 16:50:16 2015 +0800
+
+    Init commit
+
+[33mcommit 189379970a2b65d5065536335627946d7c1372d0[m
+Author: Liu Yang <sdnjly@126.com>
+Date:   Tue Feb 3 16:46:02 2015 +0800
+
+    Create README.md
